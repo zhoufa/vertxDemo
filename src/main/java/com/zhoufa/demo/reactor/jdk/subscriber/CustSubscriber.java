@@ -1,4 +1,4 @@
-package com.zhoufa.demo.reactor.subscriber;
+package com.zhoufa.demo.reactor.jdk.subscriber;
 
 import org.reactivestreams.Subscription;
 import reactor.core.publisher.BaseSubscriber;

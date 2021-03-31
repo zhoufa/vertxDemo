@@ -24,6 +24,5 @@ public class ConsumeSubmissionPublisher {
         }finally {
             Objects.requireNonNull(future).get();
         }
-
     }
 }
